@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="simple-erp-ui:war">
+    <output-path>$PROJECT_DIR$/simple-erp-ui/target</output-path>
+    <root id="archive" name="simple-erp-ui-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="simple-erp-ui:war exploded" />
+    </root>
+  </artifact>
+</component>

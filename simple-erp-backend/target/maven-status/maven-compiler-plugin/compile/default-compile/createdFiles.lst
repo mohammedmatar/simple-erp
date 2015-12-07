@@ -1,0 +1,6 @@
+core/samples/backend/data/Product.class
+core/samples/backend/DataService.class
+core/samples/backend/data/Availability.class
+core/samples/backend/mock/MockDataService.class
+core/samples/backend/data/Category.class
+core/samples/backend/mock/MockDataGenerator.class

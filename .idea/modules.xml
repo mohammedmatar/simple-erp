@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simple-erp.iml" filepath="$PROJECT_DIR$/simple-erp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-erp-backend/simple-erp-backend.iml" filepath="$PROJECT_DIR$/simple-erp-backend/simple-erp-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-erp-production/simple-erp-production.iml" filepath="$PROJECT_DIR$/simple-erp-production/simple-erp-production.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-erp-ui/simple-erp-ui.iml" filepath="$PROJECT_DIR$/simple-erp-ui/simple-erp-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-erp-widgetset/simple-erp-widgetset.iml" filepath="$PROJECT_DIR$/simple-erp-widgetset/simple-erp-widgetset.iml" />
+    </modules>
+  </component>
+</project>
