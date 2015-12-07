@@ -8,3 +8,5 @@ dependency-reduced-pom.xml
 buildNumber.properties
 simple-erp-ui/target/
 simple-erp-backend/target/
+simple-erp-production/target/
+
