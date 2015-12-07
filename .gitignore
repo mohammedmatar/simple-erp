@@ -6,4 +6,5 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
-*/target/
+simple-erp-ui/target/
+simple-erp-backend/target/
